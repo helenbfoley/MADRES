@@ -1,12 +1,13 @@
 Package: MADRES
-Title: What the Package Does (One Line, Title Case)
+Title: Custom Functions for MADRES Datasets
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person(given="Helen", family="Foley", middle="Bermudez", "hfoley@usc.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-1314-6813"))
+Description: This package puts together a handful of custom functions for working with MADRES datasets. These data come from the Maternal And Developmental Risks from Environmental and Social stressors (MADRES) Center for Environmental Health Disparities at USC was established in 2015 to investigate the cumulative effects of chemical pollutants and psychosocial, behavioral, and built environment risk factors, during and after pregnancy, on maternal and infant health outcomes. If this sounds interesting to you, check us out at: madres.usc.edu .  
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.0
+Imports: 
+    stringr
