@@ -1,3 +1,3 @@
 test_that("each entry is counted", {
-  expect_equal(CountuniqueIDs(c("MAD-2-17-74-00",  "MAD-2-17-115-00", "MAD-1-17-131-01")), 3)
+  expect_equal(CountuniqueIDs(c("MAD-2-18-72-00",  "MAD-2-19-335-00", "MAD-1-20-465-01")), 3)
 })
