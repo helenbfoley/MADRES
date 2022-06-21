@@ -1,0 +1,22 @@
+#' Simulated labtracking dataset, for use with MADRES R package.
+#'
+#' A dataset containing the IDs and sample information from mock participants of the MADRES study at USC.
+#'
+#'
+#' @format A data frame with 203 rows and 11 variables. Full documentation on the real dataset is available through MADRES. The variables are as follows:
+#' \describe{
+#'   \item{ID}{MADRES ID, containing the recruitment site, year of consent, family ID, and parent-baby identifier.}
+#'   \item{family_id}{Numerical ID for family. Shared between parent and child.}
+#'   \item{SAMPLE_TYPE}{Biosample type.}
+#'   \item{Sample_Name}{Name of the sample, composed of the ID, plus aliquot number, in sequence.}
+#'   \item{Sample_ID}{Identifier for the sample draw from the participant. All aliquots originating from the same draw of sample share this identifier.}
+#'   \item{SampleID}{A unique sample ID provided by elab, our inventory software.}
+#'   \item{time}{Timepoint of collection.}
+#'   \item{Collection_Time}{Collection time, measured in seconds since midnight Jan 1 1960, as in SAS.}
+#'   \item{Aliquot_ID}{Random ID for each aliquot.}
+#'   \item{Aliquot_Volume_uL}{Volume (remaining) in each aliquot, measured in microliters (uL).}
+#'   \item{LDNA_LRNA_Concentration}{Concentration of DNA or RNA, as measured by Nanodrop after nucleotide extraction, measured in nanograms per microliter (ng/uL).}
+#'
+#'
+#' }
+"simul_labtrack"
