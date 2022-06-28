@@ -28,7 +28,7 @@ outcomes include early childhood obesity, respiratory health including
 asthma, neurodevelopment, and overall health.
 
 If you’re interested in our work, please check out our research at
-[https://madres.usc.edu/](madres.usc.edu).
+<https://madres.usc.edu/>.
 
 ## Installation
 

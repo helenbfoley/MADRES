@@ -22,7 +22,7 @@ The MADRES package is a small suite of helper functions for working with data fr
 
 The Maternal And Developmental Risks from Environmental and Social Stressors (MADRES) Center aims to understand the impact of environmental exposures and social stressors on the health of mothers and their children, and particularly how these exposures contribute to health disparities. Since its inception in 2015, the MADRES Center has recruited a cohort of over 900 women during pregnancy from four community health centers in Los Angeles. The majority of MADRES Study participants are Hispanic and report annual household incomes of less than $50,000. The study follows the women and children through the child’s fifth birthday. Key maternal health outcomes include pregnancy weight gain, as well as postpartum weight retention, depression, and cardiovascular disease risk in the years after birth. Key child health outcomes include early childhood obesity, respiratory health including asthma, neurodevelopment, and overall health.
 
-If you're interested in our work, please check out our research at [https://madres.usc.edu/](madres.usc.edu). 
+If you're interested in our work, please check out our research at [https://madres.usc.edu/](https://madres.usc.edu/). 
 
 ## Installation
 
